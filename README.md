@@ -112,7 +112,8 @@ photo: Includes the I/O and some basic methods to handle the pgm format data.
 test_utils: Includes the methods to generate test datasets.
 vizutil: Provides visualization methods to show the CNN results, including plot the loss curve and accuracy for both training data and testing datasets.
 
-4. How to run the code?
+# How to run the code?
+
 (1) Open Pycharm, and navigate to "gen_test_data.py", and run it. Then run the "train_with_all.py", "train_with_glass.py" and "train_without_glass.py", respectively. Then you could get all the figures in my report. The first figure is in "data_vis.ipynb" which is located at the root path.
 
 (2) For the command line: a. navigate to the "prototype" folder. b. run the following code "python gen_test_data.py", "python train_with_all.py", "python train_with_glass.py" and "python train_without_glass.py", respectively.
