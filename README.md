@@ -1,5 +1,5 @@
 # Convolutional Neural Network (numpy)
-The Python implementation of the Convolutional Neural Network(CNN) uses numpy. Acknowledgement: 贝亚子零号.
+The Python implementation of CNN for recognition of face. Acknowledgement: 贝亚子零号.
 
 # Code structure
 
