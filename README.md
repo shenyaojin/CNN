@@ -1,7 +1,6 @@
 # Convolutional Neural Network (numpy)
 The Python implementation of CNN for recognition of face.
 
-终极奥义之手搓cnn神经网络。可惜不知道哪里出了问题overfitting特别厉害。:(
 # Code structure
 
 ./cnn
